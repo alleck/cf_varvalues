@@ -7,7 +7,7 @@
     file = "#CGI.PATH_TRANSLATED#"
     variable = "vars">
     
-    <!--- The regex that find the variables--->
+    <!--- The regex that finds the variables--->
     <cfset yar="#REMatchNoCase("[##][[:graph:]]*[##]", vars)#" />
 
 <!---Output of the variables and their values --->
