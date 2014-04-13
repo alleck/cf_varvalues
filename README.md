@@ -2,7 +2,7 @@
 # CF_VarValues #
 ################
 
-A simple script that you can include on any of your ColdFusion scripts to see what veriables are set, and what there values are.
+A simple script that you can include on any of your ColdFusion scripts to see what veriables are set, and what their values are.
 
 ***DOES NOT CURRENTLY WORK WITH SQL VARIABLES***
 
